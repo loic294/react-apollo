@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "main": "lib/react-apollo.umd.js",
-  "module": "src/index.ts",
+  # "module": "src/index.ts",
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",

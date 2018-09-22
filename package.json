@@ -1,6 +1,6 @@
 {
   "name": "react-apollo",
-  "version": "2.1.11",
+  "version": "2.1.12",
   "author": "opensource@apollographql.com",
   "browser": "lib/react-apollo.browser.umd.js",
   "description": "React data container for Apollo Client",
@@ -11,6 +11,7 @@
   ],
   "license": "MIT",
   "main": "lib/react-apollo.umd.js",
+  "module": "lib/react-apollo.umd.js",
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
